@@ -2,10 +2,9 @@
 Phase Three Project
 
 BUSINESS UNDERSTANDING 
-For the telecommunication industry, one of the most important metrics to monitor and optimize is the churn rate, which measures the percentage of customers who stop using the service within a given period. 
-A high churn rate indicates customer dissatisfaction, loss of revenue, and reduced market share. 
+For the telecommunication industry, one of the most important metrics to monitor and optimize is the churn rate, which measures the percentage of customers who stop using the service within a given period. A high churn rate indicates customer dissatisfaction, loss of revenue, and reduced market share. 
 Therefore, it is essential to investigate the factors that influence customer churn and develop predictive models that can identify customers who are at risk of leaving. 
-![image](https://github.com/ChiuriCynthia/Syria_Tel--Customer-Churn-Analysis/assets/128600244/fd365706-2952-432c-87d2-a88f31f96604)
+Machine learning can help in this task by applying various techniques such as data preprocessing, feature engineering, model selection, evaluation, and deployment. By using machine learning, the telecommunication industry can gain insights into customer behavior, preferences, and needs, and design effective retention strategies that can improve customer loyalty and satisfaction.
 
 In this project, we build a model to predict how likely a customer will churn by analyzing its characteristics:
 (1) Customer Service Calls
